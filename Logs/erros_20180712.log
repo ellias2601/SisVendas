@@ -1,0 +1,4 @@
+===================================================================================
+Hora: 11:39:49 | Script: /VersaoFinal/ModuloFornecedor/Modulos/cadastraproduto.php
+Query executada: DELETE FROM Produtos WHERE Produtos.prodId = ? : EXECUTE : SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`Comercial`.`FornecedoresDeProdutos`, CONSTRAINT `fk_Fornecedores_has_Produtos_Produtos1` FOREIGN KEY (`fproProdId`) REFERENCES `Produtos` (`prodId`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+

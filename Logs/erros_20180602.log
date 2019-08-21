@@ -1,0 +1,44 @@
+===================================================================================
+Hora: 12:21:45 | Script: /ModuloFornecedor/Modulos/cadastraproduto.php
+Query executada: insert into FornecedoresDeProdutos (fproFornCnpj, fproProdId) values (?,?): EXECUTE : SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'fproFornCnpj' cannot be null
+
+===================================================================================
+Hora: 12:25:23 | Script: /ModuloFornecedor/Modulos/cadastraproduto.php
+Query executada: insert into FornecedoresDeProdutos (fproFornCnpj, fproProdId) values (?,?): EXECUTE : SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'fproProdId' at row 1
+
+===================================================================================
+Hora: 12:37:36 | Script: /ModuloFornecedor/Modulos/cadastracliente.php
+Query executada: insert into Clientes (clieId, clieNome) values (?, ?) : EXECUTE : SQLSTATE[HY000]: General error: 1364 Field 'clieCpf' doesn't have a default value
+
+===================================================================================
+Hora: 12:42:32 | Script: /ModuloFornecedor/Modulos/cadastracliente.php
+Query executada: insert into Clientes (clieId, clieNome) values (?, ?) : EXECUTE : SQLSTATE[HY000]: General error: 1364 Field 'clieCpf' doesn't have a default value
+
+===================================================================================
+Hora: 12:45:18 | Script: /ModuloFornecedor/Modulos/cadastracliente.php
+Query executada: insert into Clientes (clieId, clieNome) values (?, ?) : EXECUTE : SQLSTATE[HY000]: General error: 1364 Field 'clieCpf' doesn't have a default value
+
+===================================================================================
+Hora: 12:47:35 | Script: /ModuloFornecedor/Modulos/cadastraproduto.php
+Query executada: insert into FornecedoresDeProdutos values (?, ?): EXECUTE : SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`Comercial`.`FornecedoresDeProdutos`, CONSTRAINT `fk_Fornecedores_has_Produtos_Fornecedores` FOREIGN KEY (`fproFornCnpj`) REFERENCES `Fornecedores` (`fornCnpj`) ON DELETE NO ACTION ON UPDATE N)
+
+===================================================================================
+Hora: 13:04:08 | Script: /ModuloFornecedor/Modulos/cadastracliente.php
+Query executada: insert into Clientes (clieId, clieNome) values (?, ?) : EXECUTE : SQLSTATE[HY000]: General error: 1364 Field 'clieCpf' doesn't have a default value
+
+===================================================================================
+Hora: 13:44:05 | Script: /ModuloFornecedor/Modulos/cadastraproduto.php
+Query executada: DELETE FROM Produtos WHERE Produtos.prodId = ? : EXECUTE : SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`Comercial`.`FornecedoresDeProdutos`, CONSTRAINT `fk_Fornecedores_has_Produtos_Produtos1` FOREIGN KEY (`fproProdId`) REFERENCES `Produtos` (`prodId`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+
+===================================================================================
+Hora: 13:44:16 | Script: /ModuloFornecedor/Modulos/cadastraproduto.php
+Query executada: DELETE FROM Produtos WHERE Produtos.prodId = ? : EXECUTE : SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`Comercial`.`FornecedoresDeProdutos`, CONSTRAINT `fk_Fornecedores_has_Produtos_Produtos1` FOREIGN KEY (`fproProdId`) REFERENCES `Produtos` (`prodId`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+
+===================================================================================
+Hora: 13:46:29 | Script: /ModuloFornecedor/Modulos/cadastraproduto.php
+Query executada: DELETE FROM Produtos WHERE Produtos.prodId = ? : EXECUTE : SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`Comercial`.`FornecedoresDeProdutos`, CONSTRAINT `fk_Fornecedores_has_Produtos_Produtos1` FOREIGN KEY (`fproProdId`) REFERENCES `Produtos` (`prodId`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+
+===================================================================================
+Hora: 13:46:40 | Script: /ModuloFornecedor/Modulos/cadastraproduto.php
+Query executada: DELETE FROM Produtos WHERE Produtos.prodId = ? : EXECUTE : SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`Comercial`.`FornecedoresDeProdutos`, CONSTRAINT `fk_Fornecedores_has_Produtos_Produtos1` FOREIGN KEY (`fproProdId`) REFERENCES `Produtos` (`prodId`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+

@@ -1,0 +1,68 @@
+    {
+             "require-dev": {
+                        "phpunit/phpunit": "6.*"
+              },
+               "autoload": {
+                        "psr-4": {
+                                  "ADO\\": [
+                                             "ADO",
+                                            "Tests/ADO"
+
+                                 ],
+
+                                 "BD\\":[
+
+                                 "BD",
+                               "Tests/BD"
+
+                             ],
+
+                          "Classes\\":[
+
+                           "Classes",
+                          "Tests/Classes"
+
+                        ],
+
+                     "Controller\\":[
+
+                           "Controller",
+                          "Tests/Controller"
+
+                        ],
+
+
+                 "Logs\\":[
+
+                           "Logs",
+                          "Tests/Logs"
+
+                        ],
+
+            "Model\\":[
+
+                           "Model",
+                          "Tests/Model"
+
+                        ],
+
+          "Modulos\\":[
+
+                           "Modulos",
+                          "Tests/Modulos"
+
+                        ],
+
+
+       
+          "View\\":[
+
+                           "View",
+                          "Tests/View"
+
+                        ]
+                  
+                              
+                   }
+               }
+          }

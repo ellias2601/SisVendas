@@ -1,0 +1,28 @@
+===================================================================================
+Hora: 00:42:37 | Script: /ModuloFornecedor/Modulos/cadastraprecompras.php
+Query executada: insert into PreCompras (precProdId, precCestId) values (?,?): EXECUTE : SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '1-138' for key 'PRIMARY'
+
+===================================================================================
+Hora: 10:37:06 | Script: /ModuloFornecedor/Modulos/cadastraprecompras.php
+Query executada: insert into PreCompras (precProdId, precCestId) values (?,?): EXECUTE : SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '3-141' for key 'PRIMARY'
+
+===================================================================================
+Hora: 10:40:59 | Script: /ModuloFornecedor/Modulos/cadastraprecompras.php
+Query executada: insert into PreCompras (precProdId, precCestId) values (?,?): EXECUTE : SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '3-141' for key 'PRIMARY'
+
+===================================================================================
+Hora: 11:19:07 | Script: /ModuloFornecedor/Modulos/cadastraprecompras.php
+Query executada: insert into PreCompras (precProdId, precCestId) values (?,?): EXECUTE : SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '3-145' for key 'PRIMARY'
+
+===================================================================================
+Hora: 11:19:48 | Script: /ModuloFornecedor/Modulos/realizacompras.php
+Query executada: insert into Compras (compId, compClieId) values (?,?): EXECUTE : SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`Comercial`.`Compras`, CONSTRAINT `fk_Compras_Clientes1` FOREIGN KEY (`compClieId`) REFERENCES `Clientes` (`clieId`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+
+===================================================================================
+Hora: 11:27:34 | Script: /ModuloFornecedor/Modulos/cadastraprecompras.php
+Query executada: insert into PreCompras (precProdId, precCestId) values (?,?): EXECUTE : SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'precProdId' at row 1
+
+===================================================================================
+Hora: 11:29:56 | Script: /ModuloFornecedor/Modulos/cadastraprecompras.php
+Query executada: insert into PreCompras (precProdId, precCestId) values (?,?): EXECUTE : SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`Comercial`.`PreCompras`, CONSTRAINT `fk_Produtos_has_CestasDeCompras_CestasDeCompras1` FOREIGN KEY (`precCestId`) REFERENCES `CestasDeCompras` (`cestId`) ON DELETE NO ACTION ON UPDATE NO ACTI)
+

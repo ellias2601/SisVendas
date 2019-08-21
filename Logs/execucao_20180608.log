@@ -1,0 +1,176 @@
+===================================================================================
+Hora: 06:58:25 | Script: /ModuloFornecedor/Modulos/cadastraproduto.php
+Query executada: UPDATE Produtos SET prodNome = ?, prodValor = ?, prodQtde = ? WHERE Produtos.prodId = ?  | Método: executaPs
+
+===================================================================================
+Hora: 07:07:51 | Script: /ModuloFornecedor/Modulos/cadastrafornecedor.php
+Query executada: UPDATE Fornecedores SET fornNome = ?, fornFone1 = ?, fornFone2 = ?, fornEnd = ?, fornCep=?, fornCidade = ?, fornUf = ? WHERE Fornecedores.fornCnpj = ?  | Método: executaPs
+
+===================================================================================
+Hora: 07:08:48 | Script: /ModuloFornecedor/Modulos/cadastrafornecedor.php
+Query executada: insert into Fornecedores (fornCnpj, fornNome, fornFone1, fornFone2, fornEnd, fornCep, fornCidade, fornUf) values (?,?,?,?,?,?,?,?) | Método: executaPs
+
+===================================================================================
+Hora: 07:09:35 | Script: /ModuloFornecedor/Modulos/cadastraproduto.php
+Query executada: insert into Produtos (prodId, prodNome,prodValor, prodQtde) values (?,?,?,?) | Método: executaPs
+
+===================================================================================
+Hora: 07:09:35 | Script: /ModuloFornecedor/Modulos/cadastraproduto.php
+Query executada: insert into FornecedoresDeProdutos values (?, ?) | Método: executaPs
+
+===================================================================================
+Hora: 08:23:50 | Script: /ModuloFornecedor/Modulos/cadastraproduto.php
+Query executada: UPDATE Produtos SET prodNome = ?, prodValor = ?, prodQtde = ? WHERE Produtos.prodId = ?  | Método: executaPs
+
+===================================================================================
+Hora: 08:24:09 | Script: /ModuloFornecedor/Modulos/cadastraproduto.php
+Query executada: insert into Produtos (prodId, prodNome,prodValor, prodQtde) values (?,?,?,?) | Método: executaPs
+
+===================================================================================
+Hora: 08:25:11 | Script: /ModuloFornecedor/Modulos/cadastraproduto.php
+Query executada: insert into Produtos (prodId, prodNome,prodValor, prodQtde) values (?,?,?,?) | Método: executaPs
+
+===================================================================================
+Hora: 08:28:17 | Script: /ModuloFornecedor/Modulos/cadastraproduto.php
+Query executada: insert into Produtos (prodId, prodNome,prodValor, prodQtde) values (?,?,?,?) | Método: executaPs
+
+===================================================================================
+Hora: 08:44:02 | Script: /ModuloFornecedor/Modulos/cadastraproduto.php
+Query executada: insert into Produtos (prodId, prodNome,prodValor, prodQtde) values (?,?,?,?) | Método: executaPs
+
+===================================================================================
+Hora: 08:44:58 | Script: /ModuloFornecedor/Modulos/cadastraproduto.php
+Query executada: insert into Produtos (prodId, prodNome,prodValor, prodQtde) values (?,?,?,?) | Método: executaPs
+
+===================================================================================
+Hora: 08:45:23 | Script: /ModuloFornecedor/Modulos/cadastraproduto.php
+Query executada: insert into Produtos (prodId, prodNome,prodValor, prodQtde) values (?,?,?,?) | Método: executaPs
+
+===================================================================================
+Hora: 08:48:40 | Script: /ModuloFornecedor/Modulos/cadastraproduto.php
+Query executada: UPDATE Produtos SET prodNome = ?, prodValor = ?, prodQtde = ? WHERE Produtos.prodId = ?  | Método: executaPs
+
+===================================================================================
+Hora: 08:48:55 | Script: /ModuloFornecedor/Modulos/cadastraproduto.php
+Query executada: insert into Produtos (prodId, prodNome,prodValor, prodQtde) values (?,?,?,?) | Método: executaPs
+
+===================================================================================
+Hora: 08:56:25 | Script: /ModuloFornecedor/Modulos/cadastraproduto.php
+Query executada: UPDATE Produtos SET prodNome = ?, prodValor = ?, prodQtde = ? WHERE Produtos.prodId = ?  | Método: executaPs
+
+===================================================================================
+Hora: 08:56:28 | Script: /ModuloFornecedor/Modulos/cadastraproduto.php
+Query executada: insert into Produtos (prodId, prodNome,prodValor, prodQtde) values (?,?,?,?) | Método: executaPs
+
+===================================================================================
+Hora: 11:08:25 | Script: /ModuloFornecedor/Modulos/cadastraproduto.php
+Query executada: insert into Produtos (prodId, prodNome,prodValor, prodQtde) values (?,?,?,?) | Método: executaPs
+
+===================================================================================
+Hora: 11:42:43 | Script: /ModuloFornecedor/Modulos/cadastraproduto.php
+Query executada: insert into Produtos (prodId, prodNome,prodValor, prodQtde) values (?,?,?,?) | Método: executaPs
+
+===================================================================================
+Hora: 11:42:43 | Script: /ModuloFornecedor/Modulos/cadastraproduto.php
+Query executada: insert into FornecedoresDeProdutos (fproFornCnpj, fproProdId) values (?,?) | Método: executaPs
+
+===================================================================================
+Hora: 11:43:52 | Script: /ModuloFornecedor/Modulos/cadastraproduto.php
+Query executada: UPDATE Produtos SET prodNome = ?, prodValor = ?, prodQtde = ? WHERE Produtos.prodId = ?  | Método: executaPs
+
+===================================================================================
+Hora: 11:44:16 | Script: /ModuloFornecedor/Modulos/cadastraproduto.php
+Query executada: insert into Produtos (prodId, prodNome,prodValor, prodQtde) values (?,?,?,?) | Método: executaPs
+
+===================================================================================
+Hora: 11:44:16 | Script: /ModuloFornecedor/Modulos/cadastraproduto.php
+Query executada: insert into FornecedoresDeProdutos (fproFornCnpj, fproProdId) values (?,?) | Método: executaPs
+
+===================================================================================
+Hora: 11:47:15 | Script: /ModuloFornecedor/Modulos/cadastraproduto.php
+Query executada: UPDATE Produtos SET prodNome = ?, prodValor = ?, prodQtde = ? WHERE Produtos.prodId = ?  | Método: executaPs
+
+===================================================================================
+Hora: 11:47:45 | Script: /ModuloFornecedor/Modulos/cadastraproduto.php
+Query executada: insert into Produtos (prodId, prodNome,prodValor, prodQtde) values (?,?,?,?) | Método: executaPs
+
+===================================================================================
+Hora: 11:47:45 | Script: /ModuloFornecedor/Modulos/cadastraproduto.php
+Query executada: insert into FornecedoresDeProdutos (fproFornCnpj, fproProdId) values (?,?) | Método: executaPs
+
+===================================================================================
+Hora: 12:09:10 | Script: /ModuloFornecedor/Modulos/cadastraproduto.php
+Query executada: insert into Produtos (prodId, prodNome,prodValor, prodQtde) values (?,?,?,?) | Método: executaPs
+
+===================================================================================
+Hora: 12:10:00 | Script: /ModuloFornecedor/Modulos/cadastraproduto.php
+Query executada: insert into Produtos (prodId, prodNome,prodValor, prodQtde) values (?,?,?,?) | Método: executaPs
+
+===================================================================================
+Hora: 12:11:10 | Script: /ModuloFornecedor/Modulos/cadastraproduto.php
+Query executada: insert into Produtos (prodId, prodNome,prodValor, prodQtde) values (?,?,?,?) | Método: executaPs
+
+===================================================================================
+Hora: 12:11:40 | Script: /ModuloFornecedor/Modulos/cadastraproduto.php
+Query executada: insert into Produtos (prodId, prodNome,prodValor, prodQtde) values (?,?,?,?) | Método: executaPs
+
+===================================================================================
+Hora: 12:12:22 | Script: /ModuloFornecedor/Modulos/cadastraproduto.php
+Query executada: insert into Produtos (prodId, prodNome,prodValor, prodQtde) values (?,?,?,?) | Método: executaPs
+
+===================================================================================
+Hora: 12:12:22 | Script: /ModuloFornecedor/Modulos/cadastraproduto.php
+Query executada: insert into FornecedoresDeProdutos (fproFornCnpj, fproProdId) values (?,?) | Método: executaPs
+
+===================================================================================
+Hora: 12:13:42 | Script: /ModuloFornecedor/Modulos/cadastraproduto.php
+Query executada: UPDATE Produtos SET prodNome = ?, prodValor = ?, prodQtde = ? WHERE Produtos.prodId = ?  | Método: executaPs
+
+===================================================================================
+Hora: 12:14:30 | Script: /ModuloFornecedor/Modulos/cadastraproduto.php
+Query executada: insert into Produtos (prodId, prodNome,prodValor, prodQtde) values (?,?,?,?) | Método: executaPs
+
+===================================================================================
+Hora: 12:14:56 | Script: /ModuloFornecedor/Modulos/cadastraproduto.php
+Query executada: insert into Produtos (prodId, prodNome,prodValor, prodQtde) values (?,?,?,?) | Método: executaPs
+
+===================================================================================
+Hora: 12:14:56 | Script: /ModuloFornecedor/Modulos/cadastraproduto.php
+Query executada: insert into FornecedoresDeProdutos (fproFornCnpj, fproProdId) values (?,?) | Método: executaPs
+
+===================================================================================
+Hora: 12:15:46 | Script: /ModuloFornecedor/Modulos/cadastraproduto.php
+Query executada: insert into Produtos (prodId, prodNome,prodValor, prodQtde) values (?,?,?,?) | Método: executaPs
+
+===================================================================================
+Hora: 12:15:46 | Script: /ModuloFornecedor/Modulos/cadastraproduto.php
+Query executada: insert into FornecedoresDeProdutos (fproFornCnpj, fproProdId) values (?,?) | Método: executaPs
+
+===================================================================================
+Hora: 12:25:45 | Script: /ModuloFornecedor/Modulos/cadastrafornecedor.php
+Query executada: UPDATE Fornecedores SET fornNome = ?, fornFone1 = ?, fornFone2 = ?, fornEnd = ?, fornCep=?, fornCidade = ?, fornUf = ? WHERE Fornecedores.fornCnpj = ?  | Método: executaPs
+
+===================================================================================
+Hora: 12:29:57 | Script: /ModuloFornecedor/Modulos/cadastrafornecedor.php
+Query executada: UPDATE Fornecedores SET fornNome = ?, fornFone1 = ?, fornFone2 = ?, fornEnd = ?, fornCep=?, fornCidade = ?, fornUf = ? WHERE Fornecedores.fornCnpj = ?  | Método: executaPs
+
+===================================================================================
+Hora: 12:30:07 | Script: /ModuloFornecedor/Modulos/cadastrafornecedor.php
+Query executada: UPDATE Fornecedores SET fornNome = ?, fornFone1 = ?, fornFone2 = ?, fornEnd = ?, fornCep=?, fornCidade = ?, fornUf = ? WHERE Fornecedores.fornCnpj = ?  | Método: executaPs
+
+===================================================================================
+Hora: 12:30:58 | Script: /ModuloFornecedor/Modulos/cadastrafornecedor.php
+Query executada: insert into Fornecedores (fornCnpj, fornNome, fornFone1, fornFone2, fornEnd, fornCep, fornCidade, fornUf) values (?,?,?,?,?,?,?,?) | Método: executaPs
+
+===================================================================================
+Hora: 12:31:40 | Script: /ModuloFornecedor/Modulos/cadastraproduto.php
+Query executada: UPDATE Produtos SET prodNome = ?, prodValor = ?, prodQtde = ? WHERE Produtos.prodId = ?  | Método: executaPs
+
+===================================================================================
+Hora: 12:32:16 | Script: /ModuloFornecedor/Modulos/cadastraproduto.php
+Query executada: insert into Produtos (prodId, prodNome,prodValor, prodQtde) values (?,?,?,?) | Método: executaPs
+
+===================================================================================
+Hora: 12:32:16 | Script: /ModuloFornecedor/Modulos/cadastraproduto.php
+Query executada: insert into FornecedoresDeProdutos (fproFornCnpj, fproProdId) values (?,?) | Método: executaPs
+

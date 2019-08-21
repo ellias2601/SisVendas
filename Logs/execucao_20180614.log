@@ -1,0 +1,84 @@
+===================================================================================
+Hora: 09:57:58 | Script: /ModuloFornecedor/Modulos/cadastrafornecedor.php
+Query executada: UPDATE Fornecedores SET fornNome = ?, fornFone1 = ?, fornFone2 = ?, fornEnd = ?, fornCep=?, fornCidade = ?, fornUf = ? WHERE Fornecedores.fornCnpj = ?  | Método: executaPs
+
+===================================================================================
+Hora: 09:58:32 | Script: /ModuloFornecedor/Modulos/cadastrafornecedor.php
+Query executada: UPDATE Fornecedores SET fornNome = ?, fornFone1 = ?, fornFone2 = ?, fornEnd = ?, fornCep=?, fornCidade = ?, fornUf = ? WHERE Fornecedores.fornCnpj = ?  | Método: executaPs
+
+===================================================================================
+Hora: 10:00:01 | Script: /ModuloFornecedor/Modulos/cadastrafornecedor.php
+Query executada: insert into Fornecedores (fornCnpj, fornNome, fornFone1, fornFone2, fornEnd, fornCep, fornCidade, fornUf) values (?,?,?,?,?,?,?,?) | Método: executaPs
+
+===================================================================================
+Hora: 10:00:07 | Script: /ModuloFornecedor/Modulos/cadastrafornecedor.php
+Query executada: DELETE FROM Fornecedores WHERE Fornecedores.fornCnpj = ?  | Método: executaPs
+
+===================================================================================
+Hora: 10:00:36 | Script: /ModuloFornecedor/Modulos/cadastraproduto.php
+Query executada: UPDATE Produtos SET prodNome = ?, prodValor = ?, prodQtde = ? WHERE Produtos.prodId = ?  | Método: executaPs
+
+===================================================================================
+Hora: 10:00:52 | Script: /ModuloFornecedor/Modulos/cadastraproduto.php
+Query executada: UPDATE Produtos SET prodNome = ?, prodValor = ?, prodQtde = ? WHERE Produtos.prodId = ?  | Método: executaPs
+
+===================================================================================
+Hora: 10:01:08 | Script: /ModuloFornecedor/Modulos/cadastraproduto.php
+Query executada: insert into Produtos (prodId, prodNome,prodValor, prodQtde) values (?,?,?,?) | Método: executaPs
+
+===================================================================================
+Hora: 10:01:08 | Script: /ModuloFornecedor/Modulos/cadastraproduto.php
+Query executada: insert into FornecedoresDeProdutos (fproFornCnpj, fproProdId) values (?,?) | Método: executaPs
+
+===================================================================================
+Hora: 20:22:38 | Script: /ModuloFornecedor/Modulos/cadastracliente.php
+Query executada: insert into Clientes (clieId, clieNome, clieCpf, clieRg, clieUfRg, clieRgDtExpedicao, clieFone, clieEmail) values (?, ?, ?, ?, ?, ?, ?, ?)  | Método: executaPs
+
+===================================================================================
+Hora: 20:32:19 | Script: /ModuloFornecedor/Modulos/cadastracliente.php
+Query executada: UPDATE Clientes SET clieNome = ? WHERE Clientes.clieId = ?  | Método: executaPs
+
+===================================================================================
+Hora: 20:32:50 | Script: /ModuloFornecedor/Modulos/cadastracliente.php
+Query executada: DELETE FROM Clientes WHERE Clientes.clieId = ?  | Método: executaPs
+
+===================================================================================
+Hora: 20:36:54 | Script: /ModuloFornecedor/Modulos/cadastracliente.php
+Query executada: DELETE FROM Clientes WHERE Clientes.clieId = ?  | Método: executaPs
+
+===================================================================================
+Hora: 20:37:17 | Script: /ModuloFornecedor/Modulos/cadastracliente.php
+Query executada: insert into Clientes (clieId, clieNome, clieCpf, clieRg, clieUfRg, clieRgDtExpedicao, clieFone, clieEmail) values (?, ?, ?, ?, ?, ?, ?, ?)  | Método: executaPs
+
+===================================================================================
+Hora: 20:45:18 | Script: /ModuloFornecedor/Modulos/cadastracliente.php
+Query executada: UPDATE Clientes SET clieNome = ?, clieCpf = ?, clieRg = ?, clieUfRg = ?, clieRgDtExpedicao = ?, clieFone = ?, clieEmail = ? WHERE Clientes.clieId = ?  | Método: executaPs
+
+===================================================================================
+Hora: 20:48:26 | Script: /ModuloFornecedor/Modulos/cadastracliente.php
+Query executada: UPDATE Clientes SET clieNome = ?, clieCpf = ?, clieRg = ?, clieUfRg = ?, clieRgDtExpedicao = ?, clieFone = ?, clieEmail = ? WHERE Clientes.clieId = ?  | Método: executaPs
+
+===================================================================================
+Hora: 20:51:04 | Script: /ModuloFornecedor/Modulos/cadastracliente.php
+Query executada: UPDATE Clientes SET clieNome = ?, clieCpf = ?, clieRg = ?, clieUfRg = ?, clieRgDtExpedicao = ?, clieFone = ?, clieEmail = ? WHERE Clientes.clieId = ?  | Método: executaPs
+
+===================================================================================
+Hora: 20:51:25 | Script: /ModuloFornecedor/Modulos/cadastracliente.php
+Query executada: UPDATE Clientes SET clieNome = ?, clieCpf = ?, clieRg = ?, clieUfRg = ?, clieRgDtExpedicao = ?, clieFone = ?, clieEmail = ? WHERE Clientes.clieId = ?  | Método: executaPs
+
+===================================================================================
+Hora: 20:51:58 | Script: /ModuloFornecedor/Modulos/cadastracliente.php
+Query executada: UPDATE Clientes SET clieNome = ?, clieCpf = ?, clieRg = ?, clieUfRg = ?, clieRgDtExpedicao = ?, clieFone = ?, clieEmail = ? WHERE Clientes.clieId = ?  | Método: executaPs
+
+===================================================================================
+Hora: 20:54:25 | Script: /ModuloFornecedor/Modulos/cadastracliente.php
+Query executada: insert into Clientes (clieId, clieNome, clieCpf, clieRg, clieUfRg, clieRgDtExpedicao, clieFone, clieEmail) values (?, ?, ?, ?, ?, ?, ?, ?)  | Método: executaPs
+
+===================================================================================
+Hora: 20:55:11 | Script: /ModuloFornecedor/Modulos/cadastracliente.php
+Query executada: UPDATE Clientes SET clieNome = ?, clieCpf = ?, clieRg = ?, clieUfRg = ?, clieRgDtExpedicao = ?, clieFone = ?, clieEmail = ? WHERE Clientes.clieId = ?  | Método: executaPs
+
+===================================================================================
+Hora: 20:55:25 | Script: /ModuloFornecedor/Modulos/cadastracliente.php
+Query executada: DELETE FROM Clientes WHERE Clientes.clieId = ?  | Método: executaPs
+

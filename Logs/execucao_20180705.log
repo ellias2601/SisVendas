@@ -1,0 +1,24 @@
+===================================================================================
+Hora: 07:52:32 | Script: /VersãoFinalSisVendas/ModuloFornecedor/Modulos/cadastraprecompras.php
+Query executada: insert into CestasDeCompras (cestId, cestClieId) values (?,?) | Método: executaPs
+
+===================================================================================
+Hora: 07:52:32 | Script: /VersãoFinalSisVendas/ModuloFornecedor/Modulos/cadastraprecompras.php
+Query executada: insert into PreCompras (precProdId, precCestId) values (?,?) | Método: executaPs
+
+===================================================================================
+Hora: 07:52:42 | Script: /ModuloFornecedor/Modulos/realizacompras.php
+Query executada: insert into Compras (compId, compClieId) values (?,?) | Método: executaPs
+
+===================================================================================
+Hora: 07:52:42 | Script: /ModuloFornecedor/Modulos/realizacompras.php
+Query executada: insert into ItensDaCompra (itenCompId, itenProdId) values (?,?) | Método: executaPs
+
+===================================================================================
+Hora: 07:54:34 | Script: /VersãoFinalSisVendas/ModuloFornecedor/Modulos/cadastraprecompras.php
+Query executada: insert into CestasDeCompras (cestId, cestClieId) values (?,?) | Método: executaPs
+
+===================================================================================
+Hora: 07:54:34 | Script: /VersãoFinalSisVendas/ModuloFornecedor/Modulos/cadastraprecompras.php
+Query executada: insert into PreCompras (precProdId, precCestId) values (?,?) | Método: executaPs
+

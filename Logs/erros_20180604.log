@@ -1,0 +1,4 @@
+===================================================================================
+Hora: 18:06:39 | Script: /ModuloFornecedor/Modulos/cadastracliente.php
+Query executada: insert into Clientes (clieId, clieNome) values (?, ?) : EXECUTE : SQLSTATE[HY000]: General error: 1364 Field 'clieCpf' doesn't have a default value
+

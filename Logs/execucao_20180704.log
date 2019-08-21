@@ -1,0 +1,476 @@
+===================================================================================
+Hora: 10:03:14 | Script: /ModuloFornecedor/Modulos/cadastraprecompras.php
+Query executada: insert into CestasDeCompras (cestId, cestClieId) values (?,?) | Método: executaPs
+
+===================================================================================
+Hora: 10:03:14 | Script: /ModuloFornecedor/Modulos/cadastraprecompras.php
+Query executada: insert into PreCompras (precProdId, precCestId) values (?,?) | Método: executaPs
+
+===================================================================================
+Hora: 10:03:16 | Script: /ModuloFornecedor/Modulos/cadastraprecompras.php
+Query executada: DELETE FROM PreCompras WHERE PreCompras.precProdId = ? and PreCompras.precCestId = ? | Método: executaPs
+
+===================================================================================
+Hora: 10:03:21 | Script: /ModuloFornecedor/Modulos/cadastraprecompras.php
+Query executada: insert into PreCompras (precProdId, precCestId) values (?,?) | Método: executaPs
+
+===================================================================================
+Hora: 10:03:29 | Script: /ModuloFornecedor/Modulos/realizacompras.php
+Query executada: insert into Compras (compId, compClieId) values (?,?) | Método: executaPs
+
+===================================================================================
+Hora: 10:03:29 | Script: /ModuloFornecedor/Modulos/realizacompras.php
+Query executada: insert into ItensDaCompra (itenCompId, itenProdId) values (?,?) | Método: executaPs
+
+===================================================================================
+Hora: 10:27:10 | Script: /ModuloFornecedor/Modulos/cadastraprecompras.php
+Query executada: insert into CestasDeCompras (cestId, cestClieId) values (?,?) | Método: executaPs
+
+===================================================================================
+Hora: 10:27:10 | Script: /ModuloFornecedor/Modulos/cadastraprecompras.php
+Query executada: insert into PreCompras (precProdId, precCestId) values (?,?) | Método: executaPs
+
+===================================================================================
+Hora: 10:27:28 | Script: /ModuloFornecedor/Modulos/cadastraprecompras.php
+Query executada: insert into PreCompras (precProdId, precCestId) values (?,?) | Método: executaPs
+
+===================================================================================
+Hora: 10:27:30 | Script: /ModuloFornecedor/Modulos/cadastraprecompras.php
+Query executada: DELETE FROM PreCompras WHERE PreCompras.precProdId = ? and PreCompras.precCestId = ? | Método: executaPs
+
+===================================================================================
+Hora: 10:27:35 | Script: /ModuloFornecedor/Modulos/realizacompras.php
+Query executada: insert into Compras (compId, compClieId) values (?,?) | Método: executaPs
+
+===================================================================================
+Hora: 10:27:35 | Script: /ModuloFornecedor/Modulos/realizacompras.php
+Query executada: insert into ItensDaCompra (itenCompId, itenProdId) values (?,?) | Método: executaPs
+
+===================================================================================
+Hora: 10:30:23 | Script: /TestesDeSoftware/ModuloFornecedor/Modulos/cadastracliente.php
+Query executada: UPDATE Clientes SET clieNome = ?, clieCpf = ?, clieRg = ?, clieUfRg = ?, clieRgDtExpedicao = ?, clieFone = ?, clieEmail = ? WHERE Clientes.clieId = ?  | Método: executaPs
+
+===================================================================================
+Hora: 10:30:39 | Script: /TestesDeSoftware/ModuloFornecedor/Modulos/cadastracliente.php
+Query executada: UPDATE Clientes SET clieNome = ?, clieCpf = ?, clieRg = ?, clieUfRg = ?, clieRgDtExpedicao = ?, clieFone = ?, clieEmail = ? WHERE Clientes.clieId = ?  | Método: executaPs
+
+===================================================================================
+Hora: 10:31:29 | Script: /TestesDeSoftware/ModuloFornecedor/Modulos/cadastracliente.php
+Query executada: DELETE FROM Clientes WHERE Clientes.clieId = ?  | Método: executaPs
+
+===================================================================================
+Hora: 10:31:30 | Script: /TestesDeSoftware/ModuloFornecedor/Modulos/cadastracliente.php
+Query executada: insert into Clientes (clieId, clieNome, clieCpf, clieRg, clieUfRg, clieRgDtExpedicao, clieFone, clieEmail) values (?, ?, ?, ?, ?, ?, ?, ?)  | Método: executaPs
+
+===================================================================================
+Hora: 10:31:35 | Script: /TestesDeSoftware/ModuloFornecedor/Modulos/cadastracliente.php
+Query executada: DELETE FROM Clientes WHERE Clientes.clieId = ?  | Método: executaPs
+
+===================================================================================
+Hora: 10:31:37 | Script: /TestesDeSoftware/ModuloFornecedor/Modulos/cadastracliente.php
+Query executada: insert into Clientes (clieId, clieNome, clieCpf, clieRg, clieUfRg, clieRgDtExpedicao, clieFone, clieEmail) values (?, ?, ?, ?, ?, ?, ?, ?)  | Método: executaPs
+
+===================================================================================
+Hora: 10:34:19 | Script: /TestesDeSoftware/ModuloFornecedor/Modulos/cadastracliente.php
+Query executada: insert into Clientes (clieId, clieNome, clieCpf, clieRg, clieUfRg, clieRgDtExpedicao, clieFone, clieEmail) values (?, ?, ?, ?, ?, ?, ?, ?)  | Método: executaPs
+
+===================================================================================
+Hora: 10:34:44 | Script: /TestesDeSoftware/ModuloFornecedor/Modulos/cadastracliente.php
+Query executada: UPDATE Clientes SET clieNome = ?, clieCpf = ?, clieRg = ?, clieUfRg = ?, clieRgDtExpedicao = ?, clieFone = ?, clieEmail = ? WHERE Clientes.clieId = ?  | Método: executaPs
+
+===================================================================================
+Hora: 10:41:49 | Script: /TestesDeSoftware/ModuloFornecedor/Modulos/cadastracliente.php
+Query executada: UPDATE Clientes SET clieNome = ?, clieCpf = ?, clieRg = ?, clieUfRg = ?, clieRgDtExpedicao = ?, clieFone = ?, clieEmail = ? WHERE Clientes.clieId = ?  | Método: executaPs
+
+===================================================================================
+Hora: 10:41:52 | Script: /TestesDeSoftware/ModuloFornecedor/Modulos/cadastracliente.php
+Query executada: DELETE FROM Clientes WHERE Clientes.clieId = ?  | Método: executaPs
+
+===================================================================================
+Hora: 10:41:54 | Script: /TestesDeSoftware/ModuloFornecedor/Modulos/cadastracliente.php
+Query executada: insert into Clientes (clieId, clieNome, clieCpf, clieRg, clieUfRg, clieRgDtExpedicao, clieFone, clieEmail) values (?, ?, ?, ?, ?, ?, ?, ?)  | Método: executaPs
+
+===================================================================================
+Hora: 10:42:43 | Script: /TestesDeSoftware/ModuloFornecedor/Modulos/cadastracliente.php
+Query executada: insert into Clientes (clieId, clieNome, clieCpf, clieRg, clieUfRg, clieRgDtExpedicao, clieFone, clieEmail) values (?, ?, ?, ?, ?, ?, ?, ?)  | Método: executaPs
+
+===================================================================================
+Hora: 10:47:09 | Script: /TestesDeSoftware/ModuloFornecedor/Modulos/cadastraproduto.php
+Query executada: UPDATE Produtos SET prodNome = ?, prodValor = ?, prodQtde = ? WHERE Produtos.prodId = ?  | Método: executaPs
+
+===================================================================================
+Hora: 10:47:19 | Script: /TestesDeSoftware/ModuloFornecedor/Modulos/cadastraproduto.php
+Query executada: UPDATE Produtos SET prodNome = ?, prodValor = ?, prodQtde = ? WHERE Produtos.prodId = ?  | Método: executaPs
+
+===================================================================================
+Hora: 10:47:33 | Script: /TestesDeSoftware/ModuloFornecedor/Modulos/cadastraproduto.php
+Query executada: insert into Produtos (prodId, prodNome,prodValor, prodQtde) values (?,?,?,?) | Método: executaPs
+
+===================================================================================
+Hora: 10:47:33 | Script: /TestesDeSoftware/ModuloFornecedor/Modulos/cadastraproduto.php
+Query executada: insert into FornecedoresDeProdutos values (?, ?) | Método: executaPs
+
+===================================================================================
+Hora: 10:49:23 | Script: /TestesDeSoftware/ModuloFornecedor/Modulos/cadastraproduto.php
+Query executada: UPDATE Produtos SET prodNome = ?, prodValor = ?, prodQtde = ? WHERE Produtos.prodId = ?  | Método: executaPs
+
+===================================================================================
+Hora: 10:49:31 | Script: /TestesDeSoftware/ModuloFornecedor/Modulos/cadastraproduto.php
+Query executada: insert into Produtos (prodId, prodNome,prodValor, prodQtde) values (?,?,?,?) | Método: executaPs
+
+===================================================================================
+Hora: 10:49:31 | Script: /TestesDeSoftware/ModuloFornecedor/Modulos/cadastraproduto.php
+Query executada: insert into FornecedoresDeProdutos values (?, ?) | Método: executaPs
+
+===================================================================================
+Hora: 10:51:24 | Script: /ModuloFornecedor/Modulos/cadastraprecompras.php
+Query executada: insert into CestasDeCompras (cestId, cestClieId) values (?,?) | Método: executaPs
+
+===================================================================================
+Hora: 10:51:24 | Script: /ModuloFornecedor/Modulos/cadastraprecompras.php
+Query executada: insert into PreCompras (precProdId, precCestId) values (?,?) | Método: executaPs
+
+===================================================================================
+Hora: 10:53:46 | Script: /ModuloFornecedor/Modulos/cadastraprecompras.php
+Query executada: insert into CestasDeCompras (cestId, cestClieId) values (?,?) | Método: executaPs
+
+===================================================================================
+Hora: 10:53:46 | Script: /ModuloFornecedor/Modulos/cadastraprecompras.php
+Query executada: insert into PreCompras (precProdId, precCestId) values (?,?) | Método: executaPs
+
+===================================================================================
+Hora: 10:55:32 | Script: /ModuloFornecedor/Modulos/cadastraprecompras.php
+Query executada: insert into CestasDeCompras (cestId, cestClieId) values (?,?) | Método: executaPs
+
+===================================================================================
+Hora: 10:55:32 | Script: /ModuloFornecedor/Modulos/cadastraprecompras.php
+Query executada: insert into PreCompras (precProdId, precCestId) values (?,?) | Método: executaPs
+
+===================================================================================
+Hora: 10:55:52 | Script: /ModuloFornecedor/Modulos/cadastraprecompras.php
+Query executada: insert into CestasDeCompras (cestId, cestClieId) values (?,?) | Método: executaPs
+
+===================================================================================
+Hora: 10:55:52 | Script: /ModuloFornecedor/Modulos/cadastraprecompras.php
+Query executada: insert into PreCompras (precProdId, precCestId) values (?,?) | Método: executaPs
+
+===================================================================================
+Hora: 10:59:31 | Script: /ModuloFornecedor/Modulos/cadastraprecompras.php
+Query executada: DELETE FROM PreCompras WHERE PreCompras.precProdId = ? and PreCompras.precCestId = ? | Método: executaPs
+
+===================================================================================
+Hora: 10:59:41 | Script: /ModuloFornecedor/Modulos/cadastraprecompras.php
+Query executada: insert into CestasDeCompras (cestId, cestClieId) values (?,?) | Método: executaPs
+
+===================================================================================
+Hora: 10:59:41 | Script: /ModuloFornecedor/Modulos/cadastraprecompras.php
+Query executada: insert into PreCompras (precProdId, precCestId) values (?,?) | Método: executaPs
+
+===================================================================================
+Hora: 10:59:42 | Script: /ModuloFornecedor/Modulos/cadastraprecompras.php
+Query executada: DELETE FROM PreCompras WHERE PreCompras.precProdId = ? and PreCompras.precCestId = ? | Método: executaPs
+
+===================================================================================
+Hora: 10:59:54 | Script: /ModuloFornecedor/Modulos/cadastraprecompras.php
+Query executada: insert into CestasDeCompras (cestId, cestClieId) values (?,?) | Método: executaPs
+
+===================================================================================
+Hora: 10:59:54 | Script: /ModuloFornecedor/Modulos/cadastraprecompras.php
+Query executada: insert into PreCompras (precProdId, precCestId) values (?,?) | Método: executaPs
+
+===================================================================================
+Hora: 10:59:56 | Script: /ModuloFornecedor/Modulos/realizacompras.php
+Query executada: insert into Compras (compId, compClieId) values (?,?) | Método: executaPs
+
+===================================================================================
+Hora: 10:59:56 | Script: /ModuloFornecedor/Modulos/realizacompras.php
+Query executada: insert into ItensDaCompra (itenCompId, itenProdId) values (?,?) | Método: executaPs
+
+===================================================================================
+Hora: 11:00:18 | Script: /ModuloFornecedor/Modulos/cadastraprecompras.php
+Query executada: insert into CestasDeCompras (cestId, cestClieId) values (?,?) | Método: executaPs
+
+===================================================================================
+Hora: 11:00:18 | Script: /ModuloFornecedor/Modulos/cadastraprecompras.php
+Query executada: insert into PreCompras (precProdId, precCestId) values (?,?) | Método: executaPs
+
+===================================================================================
+Hora: 11:00:19 | Script: /ModuloFornecedor/Modulos/cadastraprecompras.php
+Query executada: DELETE FROM PreCompras WHERE PreCompras.precProdId = ? and PreCompras.precCestId = ? | Método: executaPs
+
+===================================================================================
+Hora: 11:00:25 | Script: /ModuloFornecedor/Modulos/cadastraprecompras.php
+Query executada: insert into PreCompras (precProdId, precCestId) values (?,?) | Método: executaPs
+
+===================================================================================
+Hora: 11:00:27 | Script: /ModuloFornecedor/Modulos/realizacompras.php
+Query executada: insert into Compras (compId, compClieId) values (?,?) | Método: executaPs
+
+===================================================================================
+Hora: 11:00:27 | Script: /ModuloFornecedor/Modulos/realizacompras.php
+Query executada: insert into ItensDaCompra (itenCompId, itenProdId) values (?,?) | Método: executaPs
+
+===================================================================================
+Hora: 11:02:57 | Script: /TestesDeSoftware/ModuloFornecedor/Modulos/cadastrafornecedor.php
+Query executada: UPDATE Fornecedores SET fornNome = ?, fornFone1 = ?, fornFone2 = ?, fornEnd = ?, fornCep=?, fornCidade = ?, fornUf = ? WHERE Fornecedores.fornCnpj = ?  | Método: executaPs
+
+===================================================================================
+Hora: 11:03:09 | Script: /TestesDeSoftware/ModuloFornecedor/Modulos/cadastrafornecedor.php
+Query executada: DELETE FROM Fornecedores WHERE Fornecedores.fornCnpj = ?  | Método: executaPs
+
+===================================================================================
+Hora: 11:03:09 | Script: /TestesDeSoftware/ModuloFornecedor/Modulos/cadastrafornecedor.php
+Query executada: insert into Fornecedores (fornCnpj, fornNome, fornFone1, fornFone2, fornEnd, fornCep, fornCidade, fornUf) values (?,?,?,?,?,?,?,?) | Método: executaPs
+
+===================================================================================
+Hora: 11:03:26 | Script: /TestesDeSoftware/ModuloFornecedor/Modulos/cadastrafornecedor.php
+Query executada: insert into Fornecedores (fornCnpj, fornNome, fornFone1, fornFone2, fornEnd, fornCep, fornCidade, fornUf) values (?,?,?,?,?,?,?,?) | Método: executaPs
+
+===================================================================================
+Hora: 11:06:43 | Script: /TestesDeSoftware/ModuloFornecedor/Modulos/cadastrafornecedor.php
+Query executada: insert into Fornecedores (fornCnpj, fornNome, fornFone1, fornFone2, fornEnd, fornCep, fornCidade, fornUf) values (?,?,?,?,?,?,?,?) | Método: executaPs
+
+===================================================================================
+Hora: 19:23:40 | Script: /ModuloFornecedor/Modulos/cadastraprecompras.php
+Query executada: insert into CestasDeCompras (cestId, cestClieId) values (?,?) | Método: executaPs
+
+===================================================================================
+Hora: 19:23:40 | Script: /ModuloFornecedor/Modulos/cadastraprecompras.php
+Query executada: insert into PreCompras (precProdId, precCestId) values (?,?) | Método: executaPs
+
+===================================================================================
+Hora: 19:23:46 | Script: /ModuloFornecedor/Modulos/cadastraprecompras.php
+Query executada: DELETE FROM PreCompras WHERE PreCompras.precProdId = ? and PreCompras.precCestId = ? | Método: executaPs
+
+===================================================================================
+Hora: 19:27:19 | Script: /ModuloFornecedor/Modulos/cadastraprecompras.php
+Query executada: insert into PreCompras (precProdId, precCestId) values (?,?) | Método: executaPs
+
+===================================================================================
+Hora: 19:28:01 | Script: /ModuloFornecedor/Modulos/cadastraprecompras.php
+Query executada: insert into PreCompras (precProdId, precCestId) values (?,?) | Método: executaPs
+
+===================================================================================
+Hora: 19:28:06 | Script: /ModuloFornecedor/Modulos/cadastraprecompras.php
+Query executada: DELETE FROM PreCompras WHERE PreCompras.precProdId = ? and PreCompras.precCestId = ? | Método: executaPs
+
+===================================================================================
+Hora: 19:29:28 | Script: /ModuloFornecedor/Modulos/cadastraprecompras.php
+Query executada: insert into CestasDeCompras (cestId, cestClieId) values (?,?) | Método: executaPs
+
+===================================================================================
+Hora: 19:29:28 | Script: /ModuloFornecedor/Modulos/cadastraprecompras.php
+Query executada: insert into PreCompras (precProdId, precCestId) values (?,?) | Método: executaPs
+
+===================================================================================
+Hora: 19:29:37 | Script: /ModuloFornecedor/Modulos/cadastraprecompras.php
+Query executada: insert into PreCompras (precProdId, precCestId) values (?,?) | Método: executaPs
+
+===================================================================================
+Hora: 19:29:43 | Script: /ModuloFornecedor/Modulos/realizacompras.php
+Query executada: insert into Compras (compId, compClieId) values (?,?) | Método: executaPs
+
+===================================================================================
+Hora: 19:29:43 | Script: /ModuloFornecedor/Modulos/realizacompras.php
+Query executada: insert into ItensDaCompra (itenCompId, itenProdId) values (?,?) | Método: executaPs
+
+===================================================================================
+Hora: 19:29:43 | Script: /ModuloFornecedor/Modulos/realizacompras.php
+Query executada: insert into ItensDaCompra (itenCompId, itenProdId) values (?,?) | Método: executaPs
+
+===================================================================================
+Hora: 19:31:20 | Script: /ModuloFornecedor/Modulos/cadastraprecompras.php
+Query executada: insert into CestasDeCompras (cestId, cestClieId) values (?,?) | Método: executaPs
+
+===================================================================================
+Hora: 19:31:20 | Script: /ModuloFornecedor/Modulos/cadastraprecompras.php
+Query executada: insert into PreCompras (precProdId, precCestId) values (?,?) | Método: executaPs
+
+===================================================================================
+Hora: 19:31:34 | Script: /ModuloFornecedor/Modulos/cadastraprecompras.php
+Query executada: insert into PreCompras (precProdId, precCestId) values (?,?) | Método: executaPs
+
+===================================================================================
+Hora: 19:31:40 | Script: /ModuloFornecedor/Modulos/cadastraprecompras.php
+Query executada: insert into PreCompras (precProdId, precCestId) values (?,?) | Método: executaPs
+
+===================================================================================
+Hora: 19:31:46 | Script: /ModuloFornecedor/Modulos/cadastraprecompras.php
+Query executada: insert into PreCompras (precProdId, precCestId) values (?,?) | Método: executaPs
+
+===================================================================================
+Hora: 19:31:52 | Script: /ModuloFornecedor/Modulos/cadastraprecompras.php
+Query executada: insert into PreCompras (precProdId, precCestId) values (?,?) | Método: executaPs
+
+===================================================================================
+Hora: 19:32:09 | Script: /ModuloFornecedor/Modulos/realizacompras.php
+Query executada: insert into Compras (compId, compClieId) values (?,?) | Método: executaPs
+
+===================================================================================
+Hora: 19:32:09 | Script: /ModuloFornecedor/Modulos/realizacompras.php
+Query executada: insert into ItensDaCompra (itenCompId, itenProdId) values (?,?) | Método: executaPs
+
+===================================================================================
+Hora: 19:32:09 | Script: /ModuloFornecedor/Modulos/realizacompras.php
+Query executada: insert into ItensDaCompra (itenCompId, itenProdId) values (?,?) | Método: executaPs
+
+===================================================================================
+Hora: 19:32:09 | Script: /ModuloFornecedor/Modulos/realizacompras.php
+Query executada: insert into ItensDaCompra (itenCompId, itenProdId) values (?,?) | Método: executaPs
+
+===================================================================================
+Hora: 19:32:09 | Script: /ModuloFornecedor/Modulos/realizacompras.php
+Query executada: insert into ItensDaCompra (itenCompId, itenProdId) values (?,?) | Método: executaPs
+
+===================================================================================
+Hora: 19:32:09 | Script: /ModuloFornecedor/Modulos/realizacompras.php
+Query executada: insert into ItensDaCompra (itenCompId, itenProdId) values (?,?) | Método: executaPs
+
+===================================================================================
+Hora: 19:52:33 | Script: /ModuloFornecedor/Modulos/cadastraprecompras.php
+Query executada: insert into CestasDeCompras (cestId, cestClieId) values (?,?) | Método: executaPs
+
+===================================================================================
+Hora: 19:52:33 | Script: /ModuloFornecedor/Modulos/cadastraprecompras.php
+Query executada: insert into PreCompras (precProdId, precCestId) values (?,?) | Método: executaPs
+
+===================================================================================
+Hora: 19:52:44 | Script: /ModuloFornecedor/Modulos/cadastraprecompras.php
+Query executada: insert into PreCompras (precProdId, precCestId) values (?,?) | Método: executaPs
+
+===================================================================================
+Hora: 19:52:48 | Script: /ModuloFornecedor/Modulos/realizacompras.php
+Query executada: insert into Compras (compId, compClieId) values (?,?) | Método: executaPs
+
+===================================================================================
+Hora: 19:52:48 | Script: /ModuloFornecedor/Modulos/realizacompras.php
+Query executada: insert into ItensDaCompra (itenCompId, itenProdId) values (?,?) | Método: executaPs
+
+===================================================================================
+Hora: 19:52:48 | Script: /ModuloFornecedor/Modulos/realizacompras.php
+Query executada: insert into ItensDaCompra (itenCompId, itenProdId) values (?,?) | Método: executaPs
+
+===================================================================================
+Hora: 19:54:12 | Script: /ModuloFornecedor/Modulos/cadastraprecompras.php
+Query executada: insert into CestasDeCompras (cestId, cestClieId) values (?,?) | Método: executaPs
+
+===================================================================================
+Hora: 19:54:48 | Script: /ModuloFornecedor/Modulos/cadastraprecompras.php
+Query executada: insert into CestasDeCompras (cestId, cestClieId) values (?,?) | Método: executaPs
+
+===================================================================================
+Hora: 19:54:48 | Script: /ModuloFornecedor/Modulos/cadastraprecompras.php
+Query executada: insert into PreCompras (precProdId, precCestId) values (?,?) | Método: executaPs
+
+===================================================================================
+Hora: 19:55:30 | Script: /ModuloFornecedor/Modulos/cadastraprecompras.php
+Query executada: insert into PreCompras (precProdId, precCestId) values (?,?) | Método: executaPs
+
+===================================================================================
+Hora: 19:55:35 | Script: /ModuloFornecedor/Modulos/cadastraprecompras.php
+Query executada: insert into PreCompras (precProdId, precCestId) values (?,?) | Método: executaPs
+
+===================================================================================
+Hora: 19:55:44 | Script: /ModuloFornecedor/Modulos/cadastraprecompras.php
+Query executada: insert into PreCompras (precProdId, precCestId) values (?,?) | Método: executaPs
+
+===================================================================================
+Hora: 19:59:06 | Script: /ModuloFornecedor/Modulos/cadastraprecompras.php
+Query executada: insert into CestasDeCompras (cestId, cestClieId) values (?,?) | Método: executaPs
+
+===================================================================================
+Hora: 19:59:06 | Script: /ModuloFornecedor/Modulos/cadastraprecompras.php
+Query executada: insert into PreCompras (precProdId, precCestId) values (?,?) | Método: executaPs
+
+===================================================================================
+Hora: 20:03:53 | Script: /ModuloFornecedor/Modulos/cadastraprecompras.php
+Query executada: insert into CestasDeCompras (cestId, cestClieId) values (?,?) | Método: executaPs
+
+===================================================================================
+Hora: 20:03:53 | Script: /ModuloFornecedor/Modulos/cadastraprecompras.php
+Query executada: insert into PreCompras (precProdId, precCestId) values (?,?) | Método: executaPs
+
+===================================================================================
+Hora: 20:04:00 | Script: /ModuloFornecedor/Modulos/cadastraprecompras.php
+Query executada: insert into PreCompras (precProdId, precCestId) values (?,?) | Método: executaPs
+
+===================================================================================
+Hora: 20:04:07 | Script: /ModuloFornecedor/Modulos/cadastraprecompras.php
+Query executada: DELETE FROM PreCompras WHERE PreCompras.precProdId = ? and PreCompras.precCestId = ? | Método: executaPs
+
+===================================================================================
+Hora: 20:04:10 | Script: /ModuloFornecedor/Modulos/cadastraprecompras.php
+Query executada: DELETE FROM PreCompras WHERE PreCompras.precProdId = ? and PreCompras.precCestId = ? | Método: executaPs
+
+===================================================================================
+Hora: 20:04:44 | Script: /VersãoFinalSisVendas/ModuloFornecedor/Modulos/cadastraprecompras.php
+Query executada: insert into CestasDeCompras (cestId, cestClieId) values (?,?) | Método: executaPs
+
+===================================================================================
+Hora: 20:04:44 | Script: /VersãoFinalSisVendas/ModuloFornecedor/Modulos/cadastraprecompras.php
+Query executada: insert into PreCompras (precProdId, precCestId) values (?,?) | Método: executaPs
+
+===================================================================================
+Hora: 20:04:50 | Script: /VersãoFinalSisVendas/ModuloFornecedor/Modulos/cadastraprecompras.php
+Query executada: insert into PreCompras (precProdId, precCestId) values (?,?) | Método: executaPs
+
+===================================================================================
+Hora: 20:05:05 | Script: /ModuloFornecedor/Modulos/cadastraprecompras.php
+Query executada: insert into CestasDeCompras (cestId, cestClieId) values (?,?) | Método: executaPs
+
+===================================================================================
+Hora: 20:05:05 | Script: /ModuloFornecedor/Modulos/cadastraprecompras.php
+Query executada: insert into PreCompras (precProdId, precCestId) values (?,?) | Método: executaPs
+
+===================================================================================
+Hora: 20:05:10 | Script: /ModuloFornecedor/Modulos/realizacompras.php
+Query executada: insert into Compras (compId, compClieId) values (?,?) | Método: executaPs
+
+===================================================================================
+Hora: 20:05:10 | Script: /ModuloFornecedor/Modulos/realizacompras.php
+Query executada: insert into ItensDaCompra (itenCompId, itenProdId) values (?,?) | Método: executaPs
+
+===================================================================================
+Hora: 20:06:02 | Script: /ModuloFornecedor/Modulos/cadastraprecompras.php
+Query executada: insert into CestasDeCompras (cestId, cestClieId) values (?,?) | Método: executaPs
+
+===================================================================================
+Hora: 20:06:02 | Script: /ModuloFornecedor/Modulos/cadastraprecompras.php
+Query executada: insert into PreCompras (precProdId, precCestId) values (?,?) | Método: executaPs
+
+===================================================================================
+Hora: 20:08:48 | Script: /ModuloFornecedor/Modulos/cadastraprecompras.php
+Query executada: insert into CestasDeCompras (cestId, cestClieId) values (?,?) | Método: executaPs
+
+===================================================================================
+Hora: 20:08:48 | Script: /ModuloFornecedor/Modulos/cadastraprecompras.php
+Query executada: insert into PreCompras (precProdId, precCestId) values (?,?) | Método: executaPs
+
+===================================================================================
+Hora: 20:09:29 | Script: /ModuloFornecedor/Modulos/realizacompras.php
+Query executada: insert into Compras (compId, compClieId) values (?,?) | Método: executaPs
+
+===================================================================================
+Hora: 20:09:29 | Script: /ModuloFornecedor/Modulos/realizacompras.php
+Query executada: insert into ItensDaCompra (itenCompId, itenProdId) values (?,?) | Método: executaPs
+
+===================================================================================
+Hora: 20:11:31 | Script: /ModuloFornecedor/Modulos/cadastraprecompras.php
+Query executada: insert into CestasDeCompras (cestId, cestClieId) values (?,?) | Método: executaPs
+
+===================================================================================
+Hora: 20:11:53 | Script: /ModuloFornecedor/Modulos/cadastraprecompras.php
+Query executada: insert into CestasDeCompras (cestId, cestClieId) values (?,?) | Método: executaPs
+
+===================================================================================
+Hora: 20:11:53 | Script: /ModuloFornecedor/Modulos/cadastraprecompras.php
+Query executada: insert into PreCompras (precProdId, precCestId) values (?,?) | Método: executaPs
+
+===================================================================================
+Hora: 20:13:09 | Script: /ModuloFornecedor/Modulos/realizacompras.php
+Query executada: insert into Compras (compId, compClieId) values (?,?) | Método: executaPs
+
+===================================================================================
+Hora: 20:13:09 | Script: /ModuloFornecedor/Modulos/realizacompras.php
+Query executada: insert into ItensDaCompra (itenCompId, itenProdId) values (?,?) | Método: executaPs
+

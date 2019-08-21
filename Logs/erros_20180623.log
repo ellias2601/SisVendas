@@ -1,0 +1,20 @@
+===================================================================================
+Hora: 13:07:55 | Script: /ModuloFornecedor/Modulos/cadastraproduto.php
+Query executada: DELETE FROM Produtos WHERE Produtos.prodId = ? : EXECUTE : SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`Comercial`.`FornecedoresDeProdutos`, CONSTRAINT `fk_Fornecedores_has_Produtos_Produtos1` FOREIGN KEY (`fproProdId`) REFERENCES `Produtos` (`prodId`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+
+===================================================================================
+Hora: 13:08:04 | Script: /ModuloFornecedor/Modulos/cadastraproduto.php
+Query executada: DELETE FROM Produtos WHERE Produtos.prodId = ? : EXECUTE : SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`Comercial`.`FornecedoresDeProdutos`, CONSTRAINT `fk_Fornecedores_has_Produtos_Produtos1` FOREIGN KEY (`fproProdId`) REFERENCES `Produtos` (`prodId`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+
+===================================================================================
+Hora: 13:08:11 | Script: /ModuloFornecedor/Modulos/cadastraproduto.php
+Query executada: DELETE FROM Produtos WHERE Produtos.prodId = ? : EXECUTE : SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`Comercial`.`FornecedoresDeProdutos`, CONSTRAINT `fk_Fornecedores_has_Produtos_Produtos1` FOREIGN KEY (`fproProdId`) REFERENCES `Produtos` (`prodId`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+
+===================================================================================
+Hora: 13:09:24 | Script: /ModuloFornecedor/Modulos/cadastraproduto.php
+Query executada: DELETE FROM Produtos WHERE Produtos.prodId = ? : EXECUTE : SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`Comercial`.`FornecedoresDeProdutos`, CONSTRAINT `fk_Fornecedores_has_Produtos_Produtos1` FOREIGN KEY (`fproProdId`) REFERENCES `Produtos` (`prodId`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+
+===================================================================================
+Hora: 13:09:55 | Script: /ModuloFornecedor/Modulos/cadastraproduto.php
+Query executada: insert into FornecedoresDeProdutos (fproFornCnpj, fproProdId) values (?,?): EXECUTE : SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`Comercial`.`FornecedoresDeProdutos`, CONSTRAINT `fk_Fornecedores_has_Produtos_Fornecedores` FOREIGN KEY (`fproFornCnpj`) REFERENCES `Fornecedores` (`fornCnpj`) ON DELETE NO ACTION ON UPDATE N)
+

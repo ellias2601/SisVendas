@@ -1,0 +1,168 @@
+===================================================================================
+Hora: 07:44:13 | Script: /TestesDeSoftware/ModuloFornecedor/Modulos/cadastracliente.php
+Query executada: DELETE FROM Clientes WHERE Clientes.clieId = ?  | Método: executaPs
+
+===================================================================================
+Hora: 07:44:15 | Script: /TestesDeSoftware/ModuloFornecedor/Modulos/cadastracliente.php
+Query executada: insert into Clientes (clieId, clieNome, clieCpf, clieRg, clieUfRg, clieRgDtExpedicao, clieFone, clieEmail) values (?, ?, ?, ?, ?, ?, ?, ?)  | Método: executaPs
+
+===================================================================================
+Hora: 08:29:37 | Script: /TestesDeSoftware/ModuloFornecedor/Modulos/cadastracliente.php
+Query executada: insert into Clientes (clieId, clieNome, clieCpf, clieRg, clieUfRg, clieRgDtExpedicao, clieFone, clieEmail) values (?, ?, ?, ?, ?, ?, ?, ?)  | Método: executaPs
+
+===================================================================================
+Hora: 08:30:20 | Script: /TestesDeSoftware/ModuloFornecedor/Modulos/cadastracliente.php
+Query executada: insert into Clientes (clieId, clieNome, clieCpf, clieRg, clieUfRg, clieRgDtExpedicao, clieFone, clieEmail) values (?, ?, ?, ?, ?, ?, ?, ?)  | Método: executaPs
+
+===================================================================================
+Hora: 08:30:43 | Script: /TestesDeSoftware/ModuloFornecedor/Modulos/cadastracliente.php
+Query executada: DELETE FROM Clientes WHERE Clientes.clieId = ?  | Método: executaPs
+
+===================================================================================
+Hora: 08:30:45 | Script: /TestesDeSoftware/ModuloFornecedor/Modulos/cadastracliente.php
+Query executada: insert into Clientes (clieId, clieNome, clieCpf, clieRg, clieUfRg, clieRgDtExpedicao, clieFone, clieEmail) values (?, ?, ?, ?, ?, ?, ?, ?)  | Método: executaPs
+
+===================================================================================
+Hora: 08:32:45 | Script: /TestesDeSoftware/ModuloFornecedor/Modulos/cadastracliente.php
+Query executada: UPDATE Clientes SET clieNome = ?, clieCpf = ?, clieRg = ?, clieUfRg = ?, clieRgDtExpedicao = ?, clieFone = ?, clieEmail = ? WHERE Clientes.clieId = ?  | Método: executaPs
+
+===================================================================================
+Hora: 08:33:59 | Script: /TestesDeSoftware/ModuloFornecedor/Modulos/cadastracliente.php
+Query executada: UPDATE Clientes SET clieNome = ?, clieCpf = ?, clieRg = ?, clieUfRg = ?, clieRgDtExpedicao = ?, clieFone = ?, clieEmail = ? WHERE Clientes.clieId = ?  | Método: executaPs
+
+===================================================================================
+Hora: 08:34:21 | Script: /TestesDeSoftware/ModuloFornecedor/Modulos/cadastracliente.php
+Query executada: UPDATE Clientes SET clieNome = ?, clieCpf = ?, clieRg = ?, clieUfRg = ?, clieRgDtExpedicao = ?, clieFone = ?, clieEmail = ? WHERE Clientes.clieId = ?  | Método: executaPs
+
+===================================================================================
+Hora: 08:34:38 | Script: /TestesDeSoftware/ModuloFornecedor/Modulos/cadastracliente.php
+Query executada: UPDATE Clientes SET clieNome = ?, clieCpf = ?, clieRg = ?, clieUfRg = ?, clieRgDtExpedicao = ?, clieFone = ?, clieEmail = ? WHERE Clientes.clieId = ?  | Método: executaPs
+
+===================================================================================
+Hora: 08:36:22 | Script: /TestesDeSoftware/ModuloFornecedor/Modulos/cadastracliente.php
+Query executada: UPDATE Clientes SET clieNome = ?, clieCpf = ?, clieRg = ?, clieUfRg = ?, clieRgDtExpedicao = ?, clieFone = ?, clieEmail = ? WHERE Clientes.clieId = ?  | Método: executaPs
+
+===================================================================================
+Hora: 08:37:54 | Script: /TestesDeSoftware/ModuloFornecedor/Modulos/cadastracliente.php
+Query executada: insert into Clientes (clieId, clieNome, clieCpf, clieRg, clieUfRg, clieRgDtExpedicao, clieFone, clieEmail) values (?, ?, ?, ?, ?, ?, ?, ?)  | Método: executaPs
+
+===================================================================================
+Hora: 08:38:46 | Script: /TestesDeSoftware/ModuloFornecedor/Modulos/cadastracliente.php
+Query executada: DELETE FROM Clientes WHERE Clientes.clieId = ?  | Método: executaPs
+
+===================================================================================
+Hora: 08:38:48 | Script: /TestesDeSoftware/ModuloFornecedor/Modulos/cadastracliente.php
+Query executada: insert into Clientes (clieId, clieNome, clieCpf, clieRg, clieUfRg, clieRgDtExpedicao, clieFone, clieEmail) values (?, ?, ?, ?, ?, ?, ?, ?)  | Método: executaPs
+
+===================================================================================
+Hora: 08:40:04 | Script: /TestesDeSoftware/ModuloFornecedor/Modulos/cadastracliente.php
+Query executada: UPDATE Clientes SET clieNome = ?, clieCpf = ?, clieRg = ?, clieUfRg = ?, clieRgDtExpedicao = ?, clieFone = ?, clieEmail = ? WHERE Clientes.clieId = ?  | Método: executaPs
+
+===================================================================================
+Hora: 08:40:21 | Script: /TestesDeSoftware/ModuloFornecedor/Modulos/cadastracliente.php
+Query executada: UPDATE Clientes SET clieNome = ?, clieCpf = ?, clieRg = ?, clieUfRg = ?, clieRgDtExpedicao = ?, clieFone = ?, clieEmail = ? WHERE Clientes.clieId = ?  | Método: executaPs
+
+===================================================================================
+Hora: 08:40:35 | Script: /TestesDeSoftware/ModuloFornecedor/Modulos/cadastracliente.php
+Query executada: UPDATE Clientes SET clieNome = ?, clieCpf = ?, clieRg = ?, clieUfRg = ?, clieRgDtExpedicao = ?, clieFone = ?, clieEmail = ? WHERE Clientes.clieId = ?  | Método: executaPs
+
+===================================================================================
+Hora: 08:42:19 | Script: /TestesDeSoftware/ModuloFornecedor/Modulos/cadastracliente.php
+Query executada: DELETE FROM Clientes WHERE Clientes.clieId = ?  | Método: executaPs
+
+===================================================================================
+Hora: 08:42:20 | Script: /TestesDeSoftware/ModuloFornecedor/Modulos/cadastracliente.php
+Query executada: insert into Clientes (clieId, clieNome, clieCpf, clieRg, clieUfRg, clieRgDtExpedicao, clieFone, clieEmail) values (?, ?, ?, ?, ?, ?, ?, ?)  | Método: executaPs
+
+===================================================================================
+Hora: 08:42:26 | Script: /TestesDeSoftware/ModuloFornecedor/Modulos/cadastracliente.php
+Query executada: DELETE FROM Clientes WHERE Clientes.clieId = ?  | Método: executaPs
+
+===================================================================================
+Hora: 08:42:28 | Script: /TestesDeSoftware/ModuloFornecedor/Modulos/cadastracliente.php
+Query executada: insert into Clientes (clieId, clieNome, clieCpf, clieRg, clieUfRg, clieRgDtExpedicao, clieFone, clieEmail) values (?, ?, ?, ?, ?, ?, ?, ?)  | Método: executaPs
+
+===================================================================================
+Hora: 08:42:42 | Script: /TestesDeSoftware/ModuloFornecedor/Modulos/cadastracliente.php
+Query executada: DELETE FROM Clientes WHERE Clientes.clieId = ?  | Método: executaPs
+
+===================================================================================
+Hora: 08:42:43 | Script: /TestesDeSoftware/ModuloFornecedor/Modulos/cadastracliente.php
+Query executada: insert into Clientes (clieId, clieNome, clieCpf, clieRg, clieUfRg, clieRgDtExpedicao, clieFone, clieEmail) values (?, ?, ?, ?, ?, ?, ?, ?)  | Método: executaPs
+
+===================================================================================
+Hora: 08:43:54 | Script: /TestesDeSoftware/ModuloFornecedor/Modulos/cadastracliente.php
+Query executada: DELETE FROM Clientes WHERE Clientes.clieId = ?  | Método: executaPs
+
+===================================================================================
+Hora: 08:43:56 | Script: /TestesDeSoftware/ModuloFornecedor/Modulos/cadastracliente.php
+Query executada: insert into Clientes (clieId, clieNome, clieCpf, clieRg, clieUfRg, clieRgDtExpedicao, clieFone, clieEmail) values (?, ?, ?, ?, ?, ?, ?, ?)  | Método: executaPs
+
+===================================================================================
+Hora: 08:44:26 | Script: /TestesDeSoftware/ModuloFornecedor/Modulos/cadastracliente.php
+Query executada: DELETE FROM Clientes WHERE Clientes.clieId = ?  | Método: executaPs
+
+===================================================================================
+Hora: 08:44:28 | Script: /TestesDeSoftware/ModuloFornecedor/Modulos/cadastracliente.php
+Query executada: insert into Clientes (clieId, clieNome, clieCpf, clieRg, clieUfRg, clieRgDtExpedicao, clieFone, clieEmail) values (?, ?, ?, ?, ?, ?, ?, ?)  | Método: executaPs
+
+===================================================================================
+Hora: 08:46:44 | Script: /TestesDeSoftware/ModuloFornecedor/Modulos/cadastracliente.php
+Query executada: DELETE FROM Clientes WHERE Clientes.clieId = ?  | Método: executaPs
+
+===================================================================================
+Hora: 08:46:45 | Script: /TestesDeSoftware/ModuloFornecedor/Modulos/cadastracliente.php
+Query executada: insert into Clientes (clieId, clieNome, clieCpf, clieRg, clieUfRg, clieRgDtExpedicao, clieFone, clieEmail) values (?, ?, ?, ?, ?, ?, ?, ?)  | Método: executaPs
+
+===================================================================================
+Hora: 08:46:57 | Script: /TestesDeSoftware/ModuloFornecedor/Modulos/cadastracliente.php
+Query executada: insert into Clientes (clieId, clieNome, clieCpf, clieRg, clieUfRg, clieRgDtExpedicao, clieFone, clieEmail) values (?, ?, ?, ?, ?, ?, ?, ?)  | Método: executaPs
+
+===================================================================================
+Hora: 08:48:46 | Script: /TestesDeSoftware/ModuloFornecedor/Modulos/cadastracliente.php
+Query executada: UPDATE Clientes SET clieNome = ?, clieCpf = ?, clieRg = ?, clieUfRg = ?, clieRgDtExpedicao = ?, clieFone = ?, clieEmail = ? WHERE Clientes.clieId = ?  | Método: executaPs
+
+===================================================================================
+Hora: 08:49:28 | Script: /TestesDeSoftware/ModuloFornecedor/Modulos/cadastracliente.php
+Query executada: UPDATE Clientes SET clieNome = ?, clieCpf = ?, clieRg = ?, clieUfRg = ?, clieRgDtExpedicao = ?, clieFone = ?, clieEmail = ? WHERE Clientes.clieId = ?  | Método: executaPs
+
+===================================================================================
+Hora: 11:29:31 | Script: /TestesDeSoftware/ModuloFornecedor/Modulos/cadastracliente.php
+Query executada: DELETE FROM Clientes WHERE Clientes.clieId = ?  | Método: executaPs
+
+===================================================================================
+Hora: 11:29:33 | Script: /TestesDeSoftware/ModuloFornecedor/Modulos/cadastracliente.php
+Query executada: insert into Clientes (clieId, clieNome, clieCpf, clieRg, clieUfRg, clieRgDtExpedicao, clieFone, clieEmail) values (?, ?, ?, ?, ?, ?, ?, ?)  | Método: executaPs
+
+===================================================================================
+Hora: 11:36:03 | Script: /TestesDeSoftware/ModuloFornecedor/Modulos/cadastracliente.php
+Query executada: DELETE FROM Clientes WHERE Clientes.clieId = ?  | Método: executaPs
+
+===================================================================================
+Hora: 11:36:05 | Script: /TestesDeSoftware/ModuloFornecedor/Modulos/cadastracliente.php
+Query executada: insert into Clientes (clieId, clieNome, clieCpf, clieRg, clieUfRg, clieRgDtExpedicao, clieFone, clieEmail) values (?, ?, ?, ?, ?, ?, ?, ?)  | Método: executaPs
+
+===================================================================================
+Hora: 11:37:46 | Script: /TestesDeSoftware/ModuloFornecedor/Modulos/cadastracliente.php
+Query executada: UPDATE Clientes SET clieNome = ?, clieCpf = ?, clieRg = ?, clieUfRg = ?, clieRgDtExpedicao = ?, clieFone = ?, clieEmail = ? WHERE Clientes.clieId = ?  | Método: executaPs
+
+===================================================================================
+Hora: 11:38:04 | Script: /TestesDeSoftware/ModuloFornecedor/Modulos/cadastracliente.php
+Query executada: UPDATE Clientes SET clieNome = ?, clieCpf = ?, clieRg = ?, clieUfRg = ?, clieRgDtExpedicao = ?, clieFone = ?, clieEmail = ? WHERE Clientes.clieId = ?  | Método: executaPs
+
+===================================================================================
+Hora: 11:38:19 | Script: /TestesDeSoftware/ModuloFornecedor/Modulos/cadastracliente.php
+Query executada: UPDATE Clientes SET clieNome = ?, clieCpf = ?, clieRg = ?, clieUfRg = ?, clieRgDtExpedicao = ?, clieFone = ?, clieEmail = ? WHERE Clientes.clieId = ?  | Método: executaPs
+
+===================================================================================
+Hora: 11:41:06 | Script: /TestesDeSoftware/ModuloFornecedor/Modulos/cadastracliente.php
+Query executada: DELETE FROM Clientes WHERE Clientes.clieId = ?  | Método: executaPs
+
+===================================================================================
+Hora: 11:41:07 | Script: /TestesDeSoftware/ModuloFornecedor/Modulos/cadastracliente.php
+Query executada: insert into Clientes (clieId, clieNome, clieCpf, clieRg, clieUfRg, clieRgDtExpedicao, clieFone, clieEmail) values (?, ?, ?, ?, ?, ?, ?, ?)  | Método: executaPs
+
+===================================================================================
+Hora: 11:43:05 | Script: /TestesDeSoftware/ModuloFornecedor/Modulos/cadastracliente.php
+Query executada: insert into Clientes (clieId, clieNome, clieCpf, clieRg, clieUfRg, clieRgDtExpedicao, clieFone, clieEmail) values (?, ?, ?, ?, ?, ?, ?, ?)  | Método: executaPs
+

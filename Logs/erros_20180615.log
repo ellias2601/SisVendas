@@ -1,0 +1,4 @@
+===================================================================================
+Hora: 07:15:43 | Script: /ModuloFornecedor/Modulos/cadastracliente.php
+Query executada: SELECT * FROM Clientes where clieId = ? ORDER BY STR_TO_DATE (clieRgDtExpedicao, '%d/%m/%Y: EXECUTE : SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''%d/%m/%Y' at line 1
+

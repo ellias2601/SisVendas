@@ -1,0 +1,12 @@
+===================================================================================
+Hora: 07:09:41 | Script: /ModuloFornecedor/Modulos/cadastraproduto.php
+Query executada: DELETE FROM Produtos WHERE Produtos.prodId = ? : EXECUTE : SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`Comercial`.`FornecedoresDeProdutos`, CONSTRAINT `fk_Fornecedores_has_Produtos_Produtos1` FOREIGN KEY (`fproProdId`) REFERENCES `Produtos` (`prodId`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+
+===================================================================================
+Hora: 12:22:21 | Script: /ModuloFornecedor/Modulos/cadastrafornecedor.php
+Query executada: UPDATE Fornecedores SET fornNome = ?, fornFone1 = ?, fornFone2 = ?, fornEnd = ?, fornCep=?, fornCidade = ?, fornUf = ? WHERE Fornecedores.fornCnpj = ? : EXECUTE : SQLSTATE[HY000]: General error: 1205 Lock wait timeout exceeded; try restarting transaction
+
+===================================================================================
+Hora: 12:25:16 | Script: /ModuloFornecedor/Modulos/cadastrafornecedor.php
+Query executada: UPDATE Fornecedores SET fornNome = ?, fornFone1 = ?, fornFone2 = ?, fornEnd = ?, fornCep=?, fornCidade = ?, fornUf = ? WHERE Fornecedores.fornCnpj = ? : EXECUTE : SQLSTATE[HY000]: General error: 1205 Lock wait timeout exceeded; try restarting transaction
+

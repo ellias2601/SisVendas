@@ -1,0 +1,44 @@
+===================================================================================
+Hora: 09:23:02 | Script: /ModuloFornecedor/Modulos/cadastraprecompras.php
+Query executada: insert into PreCompras (precProdId, precCestId) values (?,?): EXECUTE : SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '5-160' for key 'PRIMARY'
+
+===================================================================================
+Hora: 09:25:00 | Script: /ModuloFornecedor/Modulos/cadastraprecompras.php
+Query executada: insert into PreCompras (precProdId, precCestId) values (?,?): EXECUTE : SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'precProdId' at row 1
+
+===================================================================================
+Hora: 09:25:19 | Script: /ModuloFornecedor/Modulos/cadastraprecompras.php
+Query executada: insert into PreCompras (precProdId, precCestId) values (?,?): EXECUTE : SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`Comercial`.`PreCompras`, CONSTRAINT `fk_Produtos_has_CestasDeCompras_CestasDeCompras1` FOREIGN KEY (`precCestId`) REFERENCES `CestasDeCompras` (`cestId`) ON DELETE NO ACTION ON UPDATE NO ACTI)
+
+===================================================================================
+Hora: 09:26:00 | Script: /ModuloFornecedor/Modulos/cadastraprecompras.php
+Query executada: insert into PreCompras (precProdId, precCestId) values (?,?): EXECUTE : SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'precProdId' at row 1
+
+===================================================================================
+Hora: 09:27:48 | Script: /ModuloFornecedor/Modulos/cadastraprecompras.php
+Query executada: insert into PreCompras (precProdId, precCestId) values (?,?): EXECUTE : SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'precProdId' at row 1
+
+===================================================================================
+Hora: 09:28:42 | Script: /ModuloFornecedor/Modulos/cadastraprecompras.php
+Query executada: insert into PreCompras (precProdId, precCestId) values (?,?): EXECUTE : SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'precProdId' at row 1
+
+===================================================================================
+Hora: 09:29:19 | Script: /ModuloFornecedor/Modulos/cadastraprecompras.php
+Query executada: insert into PreCompras (precProdId, precCestId) values (?,?): EXECUTE : SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'precProdId' at row 1
+
+===================================================================================
+Hora: 09:34:06 | Script: /ModuloFornecedor/Modulos/cadastraprecompras.php
+Query executada: insert into PreCompras (precProdId, precCestId) values (?,?): EXECUTE : SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '5-168' for key 'PRIMARY'
+
+===================================================================================
+Hora: 09:47:04 | Script: /ModuloFornecedor/Modulos/cadastraprecompras.php
+Query executada: insert into PreCompras (precProdId, precCestId) values (?,?): EXECUTE : SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '5-174' for key 'PRIMARY'
+
+===================================================================================
+Hora: 09:48:22 | Script: /ModuloFornecedor/Modulos/cadastraprecompras.php
+Query executada: insert into PreCompras (precProdId, precCestId) values (?,?): EXECUTE : SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '5-175' for key 'PRIMARY'
+
+===================================================================================
+Hora: 11:13:37 | Script: /VersãoFinalSisVendas/ModuloFornecedor/Modulos/cadastraproduto.php
+Query executada: DELETE FROM Produtos WHERE Produtos.prodId = ? : EXECUTE : SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`Comercial`.`FornecedoresDeProdutos`, CONSTRAINT `fk_Fornecedores_has_Produtos_Produtos1` FOREIGN KEY (`fproProdId`) REFERENCES `Produtos` (`prodId`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+

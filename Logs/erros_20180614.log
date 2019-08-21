@@ -1,0 +1,36 @@
+===================================================================================
+Hora: 19:57:17 | Script: /ModuloFornecedor/Modulos/cadastracliente.php
+Query executada: insert into Clientes (clieId, clieNome, clieCpf, clieRg, clieUfRg, clieRgDtExpedicao, clieFone, clieEmail) values (?, ?, ?, ?, ?, ?, ?, ?) : EXECUTE : SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect date value: '07/03/1979' for column 'clieRgDtExpedicao' at row 1
+
+===================================================================================
+Hora: 20:02:22 | Script: /ModuloFornecedor/Modulos/cadastracliente.php
+Query executada: insert into Clientes (clieId, clieNome, clieCpf, clieRg, clieUfRg, clieRgDtExpedicao, clieFone, clieEmail) values (?, ?, ?, ?, ?, ?, ?, ?) : EXECUTE : SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect date value: '03/07/1979' for column 'clieRgDtExpedicao' at row 1
+
+===================================================================================
+Hora: 20:08:00 | Script: /ModuloFornecedor/Modulos/cadastracliente.php
+Query executada: insert into Clientes (clieId, clieNome, clieCpf, clieRg, clieUfRg, clieRgDtExpedicao, clieFone, clieEmail) values (?, ?, ?, ?, ?, ?, ?, ?) : EXECUTE : SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect date value: '22/02/2012' for column 'clieRgDtExpedicao' at row 1
+
+===================================================================================
+Hora: 20:09:02 | Script: /ModuloFornecedor/Modulos/cadastracliente.php
+Query executada: insert into Clientes (clieId, clieNome, clieCpf, clieRg, clieUfRg, clieRgDtExpedicao, clieFone, clieEmail) values (?, ?, ?, ?, ?, ?, ?, ?) : EXECUTE : SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect date value: '22/02/2012' for column 'clieRgDtExpedicao' at row 1
+
+===================================================================================
+Hora: 20:12:05 | Script: /ModuloFornecedor/Modulos/cadastracliente.php
+Query executada: insert into Clientes (clieId, clieNome, clieCpf, clieRg, clieUfRg, clieRgDtExpedicao, clieFone, clieEmail) values (?, ?, ?, ?, ?, ?, ?, ?) : EXECUTE : SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect date value: '22022012' for column 'clieRgDtExpedicao' at row 1
+
+===================================================================================
+Hora: 20:36:50 | Script: /ModuloFornecedor/Modulos/cadastracliente.php
+Query executada: UPDATE Clientes SET clieNome = ?, clieCpf = ?, clieRg = ?, clieUfRg = ?, clieDtExpedicao = ?, clieFone = ?, clieEmail = ? WHERE Clientes.clieId = ? : EXECUTE : SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+
+===================================================================================
+Hora: 20:38:38 | Script: /ModuloFornecedor/Modulos/cadastracliente.php
+Query executada: UPDATE Clientes SET clieNome = ?, clieCpf = ?, clieRg = ?, clieUfRg = ?, clieDtExpedicao = ?, clieFone = ?, clieEmail = ? WHERE Clientes.clieId = ? : EXECUTE : SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+
+===================================================================================
+Hora: 20:41:29 | Script: /ModuloFornecedor/Modulos/cadastracliente.php
+Query executada: UPDATE Clientes SET clieNome = ?, clieCpf = ?, clieRg = ?, clieUfRg = ?, clieRgDtExpedicao = ?, clieFone = ?, clieEmail = ? WHERE Clientes.clieId = ? : EXECUTE : SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+
+===================================================================================
+Hora: 20:41:42 | Script: /ModuloFornecedor/Modulos/cadastracliente.php
+Query executada: UPDATE Clientes SET clieNome = ?, clieCpf = ?, clieRg = ?, clieUfRg = ?, clieRgDtExpedicao = ?, clieFone = ?, clieEmail = ? WHERE Clientes.clieId = ? : EXECUTE : SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+

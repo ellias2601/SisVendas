@@ -1,0 +1,8 @@
+===================================================================================
+Hora: 14:04:24 | Script: /ModuloFornecedor/Modulos/cadastrafornecedor.php
+Query executada: insert into Fornecedores (fornCnpj, fornNome, fornFone1, fornFone2, fornEnd, fornCep, fornCidade, fornUf) values (?,?,?,?,?,?,?,?): EXECUTE : SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '2312223145' for key 'PRIMARY'
+
+===================================================================================
+Hora: 14:06:26 | Script: /ModuloFornecedor/Modulos/cadastrafornecedor.php
+Query executada: insert into Fornecedores (fornCnpj, fornNome, fornFone1, fornFone2, fornEnd, fornCep, fornCidade, fornUf) values (?,?,?,?,?,?,?,?): EXECUTE : SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '2312223146' for key 'PRIMARY'
+

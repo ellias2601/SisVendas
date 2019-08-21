@@ -1,0 +1,4 @@
+===================================================================================
+Hora: 08:37:35 | Script: /ModuloFornecedor/Modulos/cadastraprecompras.php
+Query executada: insert into PreCompras (precProdId, precCestId) values (?,?): EXECUTE : SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '9-210' for key 'PRIMARY'
+

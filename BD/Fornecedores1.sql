@@ -1,0 +1,1 @@
+INSERT INTO Fornecedores(fornCnpj,fornNome,fornFone1,fornFone2,fornEnd,fornCep,fornCidade,fornUf) VALUES (13832884000192,'Arcu Vivamus Sit Corp.','(490) 114-3820','(960) 138-9429','P.O. Box 842, 3586 Risus. Street','94886-512','Gravataí','RS');

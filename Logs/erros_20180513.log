@@ -1,0 +1,12 @@
+===================================================================================
+Hora: 10:44:11 | Script: /ModuloFornecedor/Modulos/cadastraproduto.php
+Query executada: DELETE FROM Produtos WHERE Produtos.prodId = ? : EXECUTE : SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`Comercial`.`FornecedoresDeProdutos`, CONSTRAINT `fk_Fornecedores_has_Produtos_Produtos1` FOREIGN KEY (`fproProdId`) REFERENCES `Produtos` (`prodId`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+
+===================================================================================
+Hora: 11:08:28 | Script: /ModuloFornecedor/Modulos/cadastracliente.php
+Query executada: DELETE FROM Clientes WHERE Clientes.prodId = ? : EXECUTE : SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Clientes.prodId' in 'where clause'
+
+===================================================================================
+Hora: 11:08:36 | Script: /ModuloFornecedor/Modulos/cadastracliente.php
+Query executada: DELETE FROM Clientes WHERE Clientes.prodId = ? : EXECUTE : SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Clientes.prodId' in 'where clause'
+

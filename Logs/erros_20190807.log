@@ -1,0 +1,12 @@
+===================================================================================
+Hora: 13:53:23 | Script: /ModuloFornecedor/Modulos/cadastraprecompras.php
+Query executada: insert into PreCompras (precProdId, precCestId) values (?,?): EXECUTE : SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '2-229' for key 'PRIMARY'
+
+===================================================================================
+Hora: 13:53:30 | Script: /ModuloFornecedor/Modulos/cadastraprecompras.php
+Query executada: insert into PreCompras (precProdId, precCestId) values (?,?): EXECUTE : SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'precProdId' at row 1
+
+===================================================================================
+Hora: 13:53:47 | Script: /ModuloFornecedor/Modulos/cadastraprecompras.php
+Query executada: insert into PreCompras (precProdId, precCestId) values (?,?): EXECUTE : SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '5-230' for key 'PRIMARY'
+
